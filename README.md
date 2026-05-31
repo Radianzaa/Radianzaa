@@ -86,9 +86,13 @@ An adaptive boss system where bosses can learn from player combat behavior.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Radianzaa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Radianzaa&theme=tokyonight" alt="Profile Details" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radianzaa&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Radianzaa&theme=tokyonight" alt="Repos Per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Radianzaa&theme=tokyonight" alt="Most Commit Language" />
 
 </div>
 
